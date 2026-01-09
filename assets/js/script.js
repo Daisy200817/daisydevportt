@@ -163,11 +163,7 @@ window.addEventListener('scroll', () => {
 
 // Typing animation for subtitle
 const phrases = [
-    "IT Lecturer",
-    "Educational Technology Specialist",
-    "Technical Trainer",
-    "Technical Curriculum Developer",
-    "IT Consultant"
+    "Senior High School Students"
 ];
 
 let currentPhraseIndex = 0;
